@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 gem 'rails', '4.2.8'
 gem "pg", "0.18.4"
-gem 'jquery-rails', "4.1.1"
+gem 'jquery-rails', '4.4.0'
 gem 'bcrypt', '3.1.11'
 gem 'redcarpet', '3.3.4'
 gem 'pygmentize', '0.0.3'
