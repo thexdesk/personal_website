@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'rails', '4.2.8'
+gem 'rails', '5.2.8.1'
 gem "pg", "0.18.4"
 gem 'jquery-rails', "4.1.1"
 gem 'bcrypt', '3.1.11'
