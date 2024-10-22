@@ -1,16 +1,16 @@
 source "https://rubygems.org"
 
-gem 'rails', '4.2.8'
+gem 'rails', '7.0.0'
 gem "pg", "0.18.4"
 gem 'jquery-rails', "4.1.1"
 gem 'bcrypt', '3.1.11'
 gem 'redcarpet', '3.3.4'
 gem 'pygmentize', '0.0.3'
 gem 'rakismet', '1.5.2'
-gem 'kaminari', '0.16.3'
+gem 'kaminari', '1.0.0'
 gem 'pg_search', "1.0.6"
 gem 'passenger', '5.0.28', require: 'phusion_passenger/rack_handler'
-gem 'sass-rails', "5.0.4"
+gem 'sass-rails', '6.0.0'
 gem 'coffee-rails', "4.1.1"
 gem 'uglifier', "3.0.0"
 
